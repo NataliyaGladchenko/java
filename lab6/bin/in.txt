@@ -1,0 +1,4 @@
+Math;Parukevich;High math;25;24;Monday;10:10
+OOP;Pobiyaha;C#;18;14;Friday;08:20
+TP;Sokolov;Python;20;16;Wednesday;12:05
+Physics;Samofalov;Mechanics;25;16;Thusday;10:10
